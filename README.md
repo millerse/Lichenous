@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/83692905.svg)](https://zenodo.org/badge/latestdoi/83692905)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.545807.svg)](https://doi.org/10.5281/zenodo.545807)
 
 # Lichenous
 
